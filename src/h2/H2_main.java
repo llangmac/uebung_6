@@ -5,11 +5,8 @@ import java.util.Arrays;
 public class H2_main {
 
     public static void main(String[] args){
-        int[] x = {1, 2, 0, 0};
-        int[] y = {1, 2, 0, 0};
-
-        System.out.println("Arrays gleich?: " + compareArrays(x, y));
-
+        //int[] x = {1, 2, 0, 0};
+        //int[] y = {1, 2, 0, 0};
     }
 
     public static boolean compareArrays(int[] a, int[] b) {

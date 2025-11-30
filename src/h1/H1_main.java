@@ -5,10 +5,8 @@ import java.util.Arrays;
 public class H1_main {
 
     public static void main(String[] args){
-        int[] x = {2, 1, 0, 7};
-        int[] y = {7, 0, 1, 2};
-
-        System.out.println("Sind beide Arrays Spiegelungen von einander?: " +isMirrorArray(x, y));
+        //int[] x = {2, 1, 0, 7};
+        //int[] y = {7, 0, 1, 2};
     }
 
     public static boolean isMirrorArray(int[] a, int[] b) {
